@@ -1,0 +1,23 @@
+{
+  "name": "npm-lab-online-web-pt-090919",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousifhj/npm-lab-online-web-pt-090919.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yousifhj/npm-lab-online-web-pt-090919/issues"
+  },
+  "homepage": "https://github.com/yousifhj/npm-lab-online-web-pt-090919#readme",
+  "dependencies": {
+    "moment": "^2.26.0"
+  },
+  "devDependencies": {}
+}
